@@ -6,7 +6,7 @@ In this assignment we'll look at the greedy and dynamic programming paradigms.
 
 All coding portions should go in `main.py` as usual.
 
-
+ 
 ## Part 1: Making Change
 
 The pandemic is over and you decide to take a much needed vacation. You arrive in a city called Geometrica, and head to the bank to
